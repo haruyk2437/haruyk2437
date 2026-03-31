@@ -6,25 +6,27 @@
   
   <br><br>
 
-  <h3> 🛠 Programming Languages & Tools </h3>
+  <h3> 🛠 Programming Languages & Environment </h3>
   <table>
     <tr>
-      <td align="center"><b>Languages</b></td>
-      <td align="center"><b>Backend & DB</b></td>
-      <td align="center"><b>Infrastructure</b></td>
+      <td align="center" width="200"><b>Main Languages</b></td>
+      <td align="center" width="200"><b>Database & Cloud</b></td>
+      <td align="center" width="200"><b>Dev Tools</b></td>
     </tr>
     <tr>
-      <td>
+      <td align="top">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <br>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black" /> <br>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
       </td>
-      <td>
+      <td align="top">
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" /> <br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
       </td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /> <br>
+      <td align="top">
+        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" /> <br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <br>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
       </td>
     </tr>
@@ -42,23 +44,26 @@
 
   <br><br>
 
-  <h3>🏆 Achievements & Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&column=4&no-bg=true&no-frame=false" />
+  <h3> 🏆 GitHub Profile Trophies </h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&column=4&margin-w=15&no-bg=true" />
+  
+  <br>
+  <p align="center"><i>활동에 따라 자동으로 트로피가 수집됩니다.</i></p>
+
+  <br>
+
+  <h3> 📊 Contribution Statistics </h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical&count_private=true" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=radical&hide=html,css" height="175" />
 
   <br><br>
 
-  <h3>📊 Detailed Activity Stats</h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=radical" height="170" />
+  <h3> 🕒 Weekly Development Activity </h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&area=true" />
 
   <br><br>
 
-  <h3>🕒 Weekly Development Overview</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark" />
-
-  <br><br>
-
-  <h3>🐍 Contribution Snake Animation</h3>
+  <h3> 🐍 Snake Contribution </h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake-dark.svg&palette=github-dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake.svg">
