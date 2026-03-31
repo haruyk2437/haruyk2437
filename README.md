@@ -1,70 +1,80 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20haruyk's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=250\&section=header\&text=Haru%20Yuki\&fontSize=60\&fontColor=ffffff\&animation=fadeIn)
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=haruyk2437&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
-  
-  <br><br>
+<img src="https://komarev.com/ghpvc/?username=haruyk2437&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-  <h3> 🛠 Programming Languages & Environment </h3>
-  <table border="0">
-    <tr>
-      <td align="center" width="250"><b>Core Languages</b></td>
-      <td align="center" width="250"><b>Data & Backend</b></td>
-      <td align="center" width="250"><b>Development Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black" /> <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> <br>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+<br><br>
 
-  <br>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Backend+Developer;Cloud+Engineer;AWS+%2F+Supabase;Automation+%26+Bots;Always+Building+Something" />
 
-  <a href="https://github.com/haruyk2437" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> 
-  <a href="https://www.youtube.com/@SoftCraftAmbient" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> 
-  <a href="https://inky-gem-f9c.notion.site/AWS-2e6a076fda74805ea0a8c1f39db3452e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> 
-  <a href="https://www.instagram.com/haruyk2437" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a> 
-  <a href="mailto:haruyk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> 
-  <a href="http://spotify.com" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
+<br><br>
 
-  <br><br>
+<!-- 🔥 DISCORD STATUS -->
 
-  <h3> 🏆 GitHub Profile Trophies </h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&column=4&no-bg=true&no-frame=false" />
-  
-  <br>
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0f2027&borderRadius=10px" />
 
-  <h3> 📊 Contribution Analytics </h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical&count_private=true" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=radical&hide=html,css" height="175" />
+<br><br>
 
-  <br><br>
+## 🚀 About Me
 
-  <h3> 🕒 Weekly Development Activity </h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&area=true" />
+💡 Backend & Automation Developer
+☁️ Cloud (AWS / Supabase) 기반 서비스 개발
+🤖 Discord Bot / Server Automation
+🎯 실용적인 프로젝트 & 빠른 구현 지향
 
-  <br><br>
+<br><br>
 
-  <h3> 🐍 Contribution Snake Game </h3>
-  <img src="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake.svg&palette=github-dark" alt="Snake Game" />
+## 🛠 Tech Stack
 
-  <br><br>
+<img src="https://skillicons.dev/icons?i=python,c,js,postgres,aws,supabase,git,vscode,vercel&theme=dark" />
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<br><br>
+
+## 🌐 Connect
+
+<a href="https://github.com/haruyk2437"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> <a href="https://www.youtube.com/@SoftCraftAmbient"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a> <a href="https://inky-gem-f9c.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/></a> <a href="https://www.instagram.com/haruyk2437"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+
+<br><br>
+
+## 🧠 Featured Projects
+
+<a href="https://github.com/haruyk2437">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO_NAME&theme=tokyonight"/>
+</a>
+<a href="https://github.com/haruyk2437">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO_NAME2&theme=tokyonight"/>
+</a>
+
+<br><br>
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=onedark&row=2&column=4&margin-w=10&margin-h=10" />
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=tokyonight" height="165"/>
+
+<br><br>
+
+## 🔥 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=tokyo-night&area=true" />
+
+<br><br>
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/haruyk2437/snake/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+## 💬 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
