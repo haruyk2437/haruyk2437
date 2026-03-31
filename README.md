@@ -12,7 +12,7 @@
 
 <!-- 🔥 DISCORD STATUS -->
 
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0f2027&borderRadius=10px" />
+<img src="https://lanyard.cnrad.dev/api/bedulgi999?theme=dark&bg=0f2027&borderRadius=10px" />
 
 <br><br>
 
