@@ -13,4 +13,4 @@
   <a href="https://open.spotify.com/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
