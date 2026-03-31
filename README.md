@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20haruyk's%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=haruyk's%20Development%20Space&fontSize=40)
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=haruyk2437&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
-  
+  <img src="https://komarev.com/ghpvc/?username=haruyk2437&label=VIEWS&color=black&style=for-the-badge" />
+
   <br><br>
 
-  <h3> 🛠 Programming Languages & Environment </h3>
-  <table border="0">
+  <h3> ⚡ Specialized Skills </h3>
+  <table>
     <tr>
-      <td align="center" width="250"><b>Core Languages</b></td>
-      <td align="center" width="250"><b>Data & Backend</b></td>
-      <td align="center" width="250"><b>Development Tools</b></td>
+      <td align="center" width="280"><b>Programming Languages</b></td>
+      <td align="center" width="280"><b>Backend & Cloud</b></td>
+      <td align="center" width="280"><b>DevOps & Tools</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -44,34 +44,30 @@
 
   <br><br>
 
-  <h3> 🏅 GitHub Official Achievements </h3>
-  <p align="center">
-    <i>프로필 왼쪽 하단에 표시되는 공식 Achievements를 통해 업적을 확인하실 수 있습니다.</i>
-  </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=flat&no-bg=true&no-frame=false&margin-w=20" />
+  <h3> 🏆 Profile Achievements </h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&column=4&no-bg=true&v=1" />
+  
+  <br>
+  <p><i>Check out my official badges in the sidebar!</i></p>
+
+  <br>
+
+  <h3> 📊 Overall Statistics </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical&v=1" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=radical&v=1" height="180" />
 
   <br><br>
 
-  <h3> 📊 Contribution Analytics </h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haruyk2437&show_icons=true&theme=radical&count_private=true" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haruyk2437&layout=compact&theme=radical&hide=html,css" height="175" />
+  <h3> 🕒 Weekly Coding Activity </h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&v=1" />
 
   <br><br>
 
-  <h3> 🕒 Weekly Development Activity </h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&area=true&hide_border=true" />
+  <h3> 🐍 Contribution Snake Game </h3>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake.svg&palette=github-dark&v=1" alt="Snake Game" />
 
   <br><br>
 
-  <h3> 🐍 Contribution Snake </h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake-dark.svg&palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github-contribution-grid-snake.vercel.app/api?github=haruyk2437&outputs=github-contribution-grid-snake.svg">
-  </picture>
-
-  <br><br>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" />
 
 </div>
