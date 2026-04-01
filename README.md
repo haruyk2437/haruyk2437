@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://inky-gem-f9c.notion.site">
+<a href="[https://inky-gem-f9c.notion.site](https://inky-gem-f9c.notion.site/AWS-2e6a076fda74805ea0a8c1f39db3452e)">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
