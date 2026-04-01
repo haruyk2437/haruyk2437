@@ -12,13 +12,13 @@
 
 <!-- 🎮 디스코드 상태 -->
 <!-- 🎮 Discord Status -->
-<img src="https://lanyard.cnrad.dev/api/1108098401192648784" />
+
+<img src="https://lanyard.cnrad.dev/api/1108098401192648784?bg=0d1117&borderRadius=10px&animated=true" />
 
 <br>
 
 <!-- Backup -->
 <img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-
 ---
 
 
