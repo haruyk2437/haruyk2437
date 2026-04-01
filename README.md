@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,postgres,aws,supabase,git,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,nodejs,aws,supabase,github,vscode,vercel,docker,linux&theme=dark" />
 
 </div>
 
