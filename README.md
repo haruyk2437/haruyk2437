@@ -12,7 +12,7 @@
 
 <!-- 🎮 디스코드 상태 -->
 
-<img src="https://lanyard.cnrad.dev/api/여기에_디스코드ID?theme=dark&bg=0f2027&borderRadius=10px" />
+<img src="https://lanyard.cnrad.dev/api/1108098401192648784?theme=dark&bg=0f2027&borderRadius=10px" />
 
 <br><br>
 
