@@ -54,15 +54,16 @@
 
 ---
 
+
 ## 📦 Featured Projects
 
-<!-- ❗ 지금은 안정 버전 (절대 안 깨짐) -->
-
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/View%20My%20Projects-0d1117?style=for-the-badge&logo=github"/>
+<a href="https://github.com/haruyk2437/discord-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=discord-bot&theme=tokyonight&hide_border=true"/>
 </a>
 
-<br><br>
+<a href="https://github.com/haruyk2437/aws-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=aws-server&theme=tokyonight&hide_border=true"/>
+</a>
 
 ---
 
