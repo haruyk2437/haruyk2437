@@ -34,23 +34,29 @@
 
 ## 🌐 Connect
 
+<div align="center">
+
 <a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@SoftCraftAmbient">
-<img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://inky-gem-f9c.notion.site">
-<img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/haruyk2437">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://discord.com/users/1108098401192648784">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
