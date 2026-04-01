@@ -54,16 +54,29 @@
 
 ---
 
-
 ## 📦 Featured Projects
 
-<a href="https://github.com/haruyk2437/discord-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=discord-bot&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/View%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/haruyk2437/aws-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=aws-server&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/AWS%20Server-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/Automation%20Tool-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
