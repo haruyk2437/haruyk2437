@@ -64,9 +64,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=onestar&no-frame=true&no-bg=true" />
-
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=haruyk2437&theme=tokyonight&hide_border=true" />
 
 ---
 
