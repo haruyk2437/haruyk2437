@@ -10,7 +10,7 @@
 
 <br><br>
 
-<!-- 🎮 Discord (안정 버전) -->
+<!-- 🎮 Discord (안정) -->
 
 <a href="https://discord.com/users/1108098401192648784">
 <img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -56,12 +56,10 @@
 
 ## 📦 Featured Projects
 
-<a href="https://github.com/haruyk2437/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO1&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</a>
+<!-- ❗ 지금은 안정 버전 (절대 안 깨짐) -->
 
-<a href="https://github.com/haruyk2437/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO2&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/View%20My%20Projects-0d1117?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
@@ -70,7 +68,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <br><br>
 
