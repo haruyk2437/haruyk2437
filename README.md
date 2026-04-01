@@ -64,11 +64,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=onestar&no-frame=true&no-bg=true" />
 
 <br><br>
 
