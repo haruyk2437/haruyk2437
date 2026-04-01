@@ -10,7 +10,7 @@
 
 <br><br>
 
-<!-- 🎮 Discord (안정) -->
+<!-- 🎮 Discord -->
 
 <a href="https://discord.com/users/1108098401192648784">
 <img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -58,45 +58,33 @@
 
 </div>
 
+<br><br>
+
 ---
 
-## 📦 Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<!-- 메인 버튼 -->
-
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- 프로젝트 카드 느낌 -->
-
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/🤖%20Discord%20Bot-Automation%20System-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br>
-
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/☁️%20AWS%20Server-Cloud%20Backend-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-<br>
-
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/⚙️%20Automation%20Tool-Python%20Based-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=haruyk2437&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
+
+<br><br>
 
 ---
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&hide_border=true"/>
 
 <br><br>
 
