@@ -57,11 +57,11 @@
 ## 📦 Featured Projects
 
 <a href="https://github.com/haruyk2437/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO1&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO1&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <a href="https://github.com/haruyk2437/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO2&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <br><br>
