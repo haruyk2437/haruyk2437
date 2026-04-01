@@ -10,17 +10,15 @@
 
 <br><br>
 
-<!-- 🎮 디스코드 상태 -->
-<!-- 🎮 Discord Status -->
+<!-- 🎮 Discord (안정 버전) -->
 
-<img src="https://lanyard.cnrad.dev/api/1108098401192648784?bg=0d1117&borderRadius=10px&animated=true" />
+<a href="https://discord.com/users/1108098401192648784">
+<img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-<!-- Backup -->
-<img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 ---
-
 
 ## 🛠 Tech Stack
 
@@ -29,7 +27,6 @@
 <img src="https://skillicons.dev/icons?i=python,c,nodejs,aws,supabase,github,vscode,vercel,docker,linux&theme=dark" />
 
 </div>
-
 
 <br><br>
 
@@ -59,14 +56,21 @@
 
 ## 📦 Featured Projects
 
-<!-- ❗ 레포 이름만 바꾸면 안정적으로 표시됨 -->
+<a href="https://github.com/haruyk2437/REPO1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO1&theme=tokyonight&hide_border=true"/>
+</a>
 
-<a href="https://github.com/haruyk2437">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO1&theme=tokyonight&cache_seconds=86400"/>
+<a href="https://github.com/haruyk2437/REPO2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO2&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/haruyk2437">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haruyk2437&repo=REPO2&theme=tokyonight&cache_seconds=86400"/>
-</a>
+
+<br><br>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
