@@ -24,18 +24,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,js,postgres,aws,supabase,git,vscode,vercel&theme=dark" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel"/>
-
 </div>
 
 
