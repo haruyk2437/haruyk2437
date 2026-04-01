@@ -68,9 +68,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/haruyk2437">
-<img src="https://img.shields.io/badge/GitHub%20Stats-View-0d1117?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haruyk2437&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
