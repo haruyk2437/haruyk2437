@@ -62,7 +62,35 @@
 
 ## 📦 Featured Projects
 
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+<div align="center">
+
+<!-- 메인 버튼 -->
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- 프로젝트 카드 느낌 -->
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/🤖%20Discord%20Bot-Automation%20System-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/☁️%20AWS%20Server-Cloud%20Backend-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://github.com/haruyk2437">
+<img src="https://img.shields.io/badge/⚙️%20Automation%20Tool-Python%20Based-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
